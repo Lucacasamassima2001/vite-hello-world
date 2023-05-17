@@ -9,8 +9,8 @@
 <style scoped>
 h1{
   text-align: center;
-  margin-top: 200px;
-  font-size: 4em;
-  color: rgb(45, 45, 147);
+  margin-top: 50px;
+  font-size: 3.5em;
+  color: white;
 }
 </style>
